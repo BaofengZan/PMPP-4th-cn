@@ -4,6 +4,7 @@
 
 其他参考：
 1. https://developer.nvidia.com/gpugems/gpugems3/contributors
-3. https://github.com/R100001/Programming-Massively-Parallel-Processors
-4. https://github.com/fancyerii/pmpp
+2. https://github.com/R100001/Programming-Massively-Parallel-Processors
+3. https://github.com/fancyerii/pmpp
+4. http://fancyerii.github.io/2024/02/20/pmpp/
 

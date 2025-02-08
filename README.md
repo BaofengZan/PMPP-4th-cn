@@ -7,4 +7,6 @@
 2. https://github.com/R100001/Programming-Massively-Parallel-Processors
 3. https://github.com/fancyerii/pmpp
 4. http://fancyerii.github.io/2024/02/20/pmpp/
+5. [heyuhhh/Programming-Massively-Parallel-Processors-4th](https://github.com/heyuhhh/Programming-Massively-Parallel-Processors-4th)
+6. 
 
